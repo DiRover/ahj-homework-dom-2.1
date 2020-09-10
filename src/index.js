@@ -1,4 +1,5 @@
+/* eslint-disable import/extensions */
 import './js/app.js';
 import './index.html';
 import './css/index.css';
-import './img/goblin.png'
+import './img/goblin.png';
