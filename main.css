@@ -1,0 +1,1 @@
+body{margin:0}.field{margin:0 auto;flex-wrap:wrap;height:100vh}.field,.field_cell{display:flex;justify-content:center;align-items:center}.field_cell{border:2px solid #000;width:calc(25% - 4px);height:25vh;background-color:#d2691e}.img{display:block;height:100%;margin:auto}
